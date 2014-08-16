@@ -12,3 +12,4 @@
 /var/www/html/dev/*
 /*/html/dev/*
 /opt/burris_install/*
+/opt/burris_builder/*
